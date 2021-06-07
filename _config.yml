@@ -9,7 +9,7 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
+url: https://annhanlon.github.io/aranislands/ 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
@@ -20,20 +20,20 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Inisheer Aran Islands Test Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: a test digital exhibit
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "A small collection of images of Inisheer, Aran Islands, Ireland. Images are from Wikimedia Commons."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Ann Hanlon
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata 
+metadata: aran 
 
 ##########
 # GOOGLE SERVICES [optional!]
@@ -49,7 +49,7 @@ metadata: demo-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
